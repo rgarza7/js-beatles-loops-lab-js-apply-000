@@ -7,3 +7,5 @@ function theBeatlesPlay(instrument, musician) {
     }
     return instrumentPlayed;
 }
+
+function johnLennonFacts() {
