@@ -11,6 +11,8 @@ function theBeatlesPlay(instrument, musician) {
 function johnLennonFacts(facts) {
   var emptyArray = [];
   var i = 0;
-  while (i < facts.length) 
+  while (i < facts.length) {
+    
+  }
   
 }
